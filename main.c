@@ -24,4 +24,3 @@ int main(void)
     printf("%ld", total);
     return 0;
 }
-RANRANROO
